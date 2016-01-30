@@ -1,2 +1,5 @@
 # hello-world
-Just another repository
+=============
+
+I like python and java
+Hot fudge is good in smoothies
